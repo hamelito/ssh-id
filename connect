@@ -2,3 +2,6 @@ cd existing_repo
 git remote add origin https://gitlab.udd.net.intra.laposte.fr/xesm149/my-test-projet.git
 git branch -M main
 git push -uf origin main
+
+
+git@gitlab.udd.net.intra.laposte.fr:xesm149/my-test-projet.git
